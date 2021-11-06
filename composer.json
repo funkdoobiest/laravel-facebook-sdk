@@ -12,12 +12,6 @@
             "role": "Developer"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/funkdoobiest/facebook-graph-sdk"
-        }
-    ],
     "require": {
         "php": ">=7.3",
         "illuminate/auth": "~8",
